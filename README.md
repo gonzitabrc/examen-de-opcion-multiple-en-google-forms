@@ -12,9 +12,7 @@ Esta aplicación te permite generar programáticamente (Google Apps Script) exá
 **/										
 										
 DESCRIPCIÓN - 										
-Esta aplicación te permite generar programáticamente (Google Apps Script) exámenes de opción múltiple en Google Forms, lo configuras desde una hoja de cálculo										
-										
-Posee licencia MIT: podés usarlo sin cargo, modificarlo, etc, sin garantías y bajo tu propia responsabilidad, pero no elimines los créditos del autor										
+Esta aplicación te permite generar programáticamente (Google Apps Script) exámenes de opción múltiple en Google Forms, lo configuras desde una hoja de cálculo															
 										
 PASOS PARA CREAR UN EXAMEN NUEVO DE MULTIPLE CHOICE								
 1) crea una copia de esta hoja de cálculo https://docs.google.com/spreadsheets/d/1lMwZk3dF8Km9bsKvuEt_jTuGnTDIgqNiY_9bHuNlzNI/edit?usp=sharing y luego carga tus preguntas y respuestas de opción múltiple en la pestaña "Preguntas" (no alteres el orden de las columnas y no uses la columna C -imagen-)									
